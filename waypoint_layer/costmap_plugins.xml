@@ -1,0 +1,6 @@
+<library path="lib/libwaypoint_layer">
+  <class type="waypoint_layer::WaypointLayer" base_class_type="costmap_2d::Layer">
+    <description>Uses waypoint information to change the costmap</description>
+  </class> 
+</library>
+
